@@ -27,7 +27,7 @@ So if the URLs contain 1000 characters or less, it's still **$200 in API costs**
 2. [entities2.json](entities2.json) - Response from Google NLP for [http://www.seerinteractive.com/blog/target-cpa-work/
 ](http://www.seerinteractive.com/blog/target-cpa-work/) - *4405 characters so really its 5 NLP calls!*
 3. [entities3.json](entities3.json) - Response from Google NLP for [http://www.seerinteractive.com/blog/organize-sites-navigation-based-audience-insights/](http://www.seerinteractive.com/blog/organize-sites-navigation-based-audience-insights/) - *7589 characters so really its 8 NLP calls!*
-4. sample.csv - Example output of URL + entities
+4. [sample.csv](sample.csv) - Example output of URL + entities
 
 
 ## Next Steps
