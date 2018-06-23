@@ -1,0 +1,3803 @@
+{
+    "entities": [
+        {
+            "name": "Facebook",
+            "type": "OTHER",
+            "metadata": {
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Facebook",
+                "mid": "/m/02y1vz"
+            },
+            "salience": 0.5585395,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 38
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 337
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 413
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 645
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 916
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 990
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 2306
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 2814
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 3283
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 3463
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 4457
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 5064
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 5180
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 6085
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 6576
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Facebook",
+                        "beginOffset": 6756
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "FACEBOOK",
+                        "beginOffset": 386
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "FACEBOOK",
+                        "beginOffset": 765
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "FACEBOOK",
+                        "beginOffset": 6016
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.058696225,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 1360
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 1645
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 4561
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Audiences",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.01724953,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Audiences",
+                        "beginOffset": 353
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "AUDIENCES",
+                        "beginOffset": 402
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "audiences",
+                        "beginOffset": 869
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "options",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.016605334,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "options",
+                        "beginOffset": 632
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "options",
+                        "beginOffset": 700
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "AUDIENCE TARGETING OPTIONS",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.014590321,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "AUDIENCE TARGETING OPTIONS",
+                        "beginOffset": 781
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "options",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.013266351,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "options",
+                        "beginOffset": 833
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "options",
+                        "beginOffset": 959
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "video",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.013019793,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5278
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5362
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5405
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5441
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5477
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5513
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5550
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5636
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5760
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "WEBSITE AUDIENCES",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.011105475,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "WEBSITE AUDIENCES",
+                        "beginOffset": 969
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "website\n   audiences",
+                        "beginOffset": 1241
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.010425439,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 290
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "web page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.009097067,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "web page",
+                        "beginOffset": 1603
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "web page",
+                        "beginOffset": 2696
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "visitors",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.008038303,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 2641
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "visitors",
+                        "beginOffset": 2670
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "USER ID",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.007320793,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "USER ID",
+                        "beginOffset": 2722
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "type",
+                        "beginOffset": 2786
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "advertising",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0061854078,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "advertising",
+                        "beginOffset": 23
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0059978478,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 4278
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "website",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005836735,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "website",
+                        "beginOffset": 1058
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "website",
+                        "beginOffset": 1339
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "pixel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0056428653,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "pixel",
+                        "beginOffset": 1008
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tips",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0055588223,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tips",
+                        "beginOffset": 729
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0053597265,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 1568
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "targeting updates",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005255807,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "targeting updates",
+                        "beginOffset": 86
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Target",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.005052029,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1304
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1561
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1638
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 4507
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 4554
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 4614
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Audiences",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0049029975,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Audiences",
+                        "beginOffset": 429
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Custom Lists",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0044918694,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Custom Lists",
+                        "beginOffset": 460
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "prospecting capabilities",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0044238376,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "prospecting capabilities",
+                        "beginOffset": 124
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "URLs",
+            "type": "OTHER",
+            "metadata": {
+                "wikipedia_url": "https://en.wikipedia.org/wiki/URL",
+                "mid": "/m/07xy0"
+            },
+            "salience": 0.0041570715,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "URLs",
+                        "beginOffset": 1444
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0038767338,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 2328
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0038619603,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 248
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0037424085,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 3331
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 3640
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.003618734,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 1736
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "web page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0036128038,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "web page",
+                        "beginOffset": 2046
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "third party data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0035866324,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "third party data",
+                        "beginOffset": 206
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "anyone",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.003446518,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "anyone",
+                        "beginOffset": 1311
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "order",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.003176446,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "order",
+                        "beginOffset": 1069
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "order",
+                        "beginOffset": 1498
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "insights",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0029406152,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "insights",
+                        "beginOffset": 1165
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "engagement",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0029327832,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "engagement",
+                        "beginOffset": 566
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "holy grail",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0027639738,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "holy grail",
+                        "beginOffset": 482
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "marketers",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0027309419,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "marketers",
+                        "beginOffset": 497
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "marketers",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0027257723,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "marketers",
+                        "beginOffset": 596
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0026835722,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 2187
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0026404317,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 3042
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "companies",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0025249156,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "companies",
+                        "beginOffset": 190
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "business goals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0024786575,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "business goals",
+                        "beginOffset": 900
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "job titles",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022179733,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "job titles",
+                        "beginOffset": 178
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ROI efficiency",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.002188212,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ROI efficiency",
+                        "beginOffset": 529
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lot",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0021310085,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lot",
+                        "beginOffset": 589
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "engagement audience lists",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0020541698,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "engagement audience lists",
+                        "beginOffset": 4232
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001984227,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 4621
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "website audience",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018855827,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "website audience",
+                        "beginOffset": 1418
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018836313,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "page",
+                        "beginOffset": 1395
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0018457106,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 940
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0018108672,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 5906
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0017291459,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 5726
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "consent",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016757216,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "consent",
+                        "beginOffset": 6632
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "consent",
+                        "beginOffset": 6844
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "form",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015487213,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "form",
+                        "beginOffset": 4316
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lookalike audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0015378671,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lookalike audience",
+                        "beginOffset": 3244
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "AUDIENCE",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0015378671,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "AUDIENCE",
+                        "beginOffset": 3104
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user emails",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0015219576,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user emails",
+                        "beginOffset": 2831
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014658897,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 6323
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 6728
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaigns",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0014577857,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaigns",
+                        "beginOffset": 1106
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014577857,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "page",
+                        "beginOffset": 1045
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "notanother page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014534665,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "notanother page",
+                        "beginOffset": 1616
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign targeting",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013723666,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign targeting",
+                        "beginOffset": 1282
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012786842,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 3169
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012773728,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 3402
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "anyone",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012735479,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "anyone",
+                        "beginOffset": 4514
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "website audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012697068,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "website audience",
+                        "beginOffset": 1982
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "website audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012686987,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "website audience",
+                        "beginOffset": 2132
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012677526,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 2315
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "website audience",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012668612,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "website audience",
+                        "beginOffset": 2489
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012664399,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "page",
+                        "beginOffset": 2372
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "budget",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012499829,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "budget",
+                        "beginOffset": 3761
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lookalike audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011698041,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lookalike audience",
+                        "beginOffset": 3926
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011688444,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 4152
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "People",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011528138,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "People",
+                        "beginOffset": 5309
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011446713,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 2794
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011433294,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 2989
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "custom list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011421058,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "custom list",
+                        "beginOffset": 3355
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011415322,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 3444
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011409813,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 3557
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011409813,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 3495
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011404515,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 3602
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "LIST",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011306703,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "LIST",
+                        "beginOffset": 2750
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "notusers",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011143766,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "notusers",
+                        "beginOffset": 2382
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "web pages",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010685533,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "web pages",
+                        "beginOffset": 1710
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001059456,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 3227
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010583693,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 3414
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001046313,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 3677
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lists",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010458448,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lists",
+                        "beginOffset": 3820
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "custom list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010453932,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "custom list",
+                        "beginOffset": 3908
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010437319,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience list",
+                        "beginOffset": 4394
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "use",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010309106,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "use",
+                        "beginOffset": 6666
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "use",
+                        "beginOffset": 6878
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "media visitors",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010236285,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "media visitors",
+                        "beginOffset": 1526
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0009875454,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign",
+                        "beginOffset": 2959
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaigns",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00098698,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaigns",
+                        "beginOffset": 3010
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009787352,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "page",
+                        "beginOffset": 2233
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009780051,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "page",
+                        "beginOffset": 2434
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "pixel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00093451707,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "pixel",
+                        "beginOffset": 1134
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "percentiles",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009327455,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "percentiles",
+                        "beginOffset": 1777
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Tip",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009083263,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Tip",
+                        "beginOffset": 3574
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaigns",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0009016863,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaigns",
+                        "beginOffset": 4119
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaigns",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.000901334,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaigns",
+                        "beginOffset": 4353
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Tip",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00086686824,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Tip",
+                        "beginOffset": 2971
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00086482597,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list",
+                        "beginOffset": 2178
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Tip",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00085962604,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Tip",
+                        "beginOffset": 2024
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Tip",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008583806,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Tip",
+                        "beginOffset": 2451
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "form",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00082366174,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "form",
+                        "beginOffset": 2115
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008234038,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 3722
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "measure",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008216653,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "measure",
+                        "beginOffset": 1085
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "UTM parameters",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00081997726,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "UTM\n         parameters",
+                        "beginOffset": 1471
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "segments",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008192296,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "segments",
+                        "beginOffset": 1724
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "site",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0008192296,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "site",
+                        "beginOffset": 1679
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rules",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008185341,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rules",
+                        "beginOffset": 1879
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "combination",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008185341,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "combination",
+                        "beginOffset": 1845
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008155533,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 5105
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008150107,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 5227
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Target",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0008110285,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1353
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Tip",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00079259835,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Tip",
+                        "beginOffset": 3861
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "spot",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007925148,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "spot",
+                        "beginOffset": 3852
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "funnel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00079061545,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "funnel",
+                        "beginOffset": 3077
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "product",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00078400987,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "product",
+                        "beginOffset": 2069
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "product",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00078400987,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "product",
+                        "beginOffset": 2214
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "product",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.000783425,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "product",
+                        "beginOffset": 2355
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "product",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.000782353,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "product",
+                        "beginOffset": 2566
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "methods",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00077529735,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "methods",
+                        "beginOffset": 6284
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0007596001,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 4857
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "service information",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007395669,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "service information",
+                        "beginOffset": 2077
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "information",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007395669,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "information",
+                        "beginOffset": 2275
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "gen",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0007219993,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "gen",
+                        "beginOffset": 4228
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "service",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006885852,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "service",
+                        "beginOffset": 2225
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "visitors",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00068712997,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "visitors",
+                        "beginOffset": 2610
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00068712997,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 2557
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "budget",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006855156,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "budget",
+                        "beginOffset": 3137
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "type",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006813359,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "type",
+                        "beginOffset": 4144
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ENGAGEMENT",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006810697,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ENGAGEMENT",
+                        "beginOffset": 4209
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "type",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006808117,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "type",
+                        "beginOffset": 4386
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0006770097,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign",
+                        "beginOffset": 5707
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "targeting",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006388233,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "targeting",
+                        "beginOffset": 5600
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "budget",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00063462247,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "budget",
+                        "beginOffset": 3963
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "phone numbers",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006336617,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "phone numbers",
+                        "beginOffset": 2858
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "marketing efforts",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006336617,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "marketing efforts",
+                        "beginOffset": 2912
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "URLs",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00062850624,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "URLs",
+                        "beginOffset": 1902
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Try",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006275384,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Try",
+                        "beginOffset": 2290
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "PHONE NUMBER",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00062628405,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "PHONE NUMBER",
+                        "beginOffset": 2730
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "EMAIL",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00062628405,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "EMAIL",
+                        "beginOffset": 2716
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audiences",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0006126443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audiences",
+                        "beginOffset": 6743
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "top",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006014538,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "top",
+                        "beginOffset": 5924
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "GDPR",
+            "type": "OTHER",
+            "metadata": {
+                "mid": "/m/0pk_7xs",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"
+            },
+            "salience": 0.00059919385,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "GDPR law",
+                        "beginOffset": 6260
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "GDPR",
+                        "beginOffset": 6950
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Tip",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00059478305,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Tip",
+                        "beginOffset": 5576
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "percentage",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005792813,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "percentage",
+                        "beginOffset": 3800
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "goals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005787894,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "goals",
+                        "beginOffset": 4053
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "insights",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005785558,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "insights",
+                        "beginOffset": 4096
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user IDs",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005565284,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user IDs",
+                        "beginOffset": 2844
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "similarity",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005550668,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "similarity",
+                        "beginOffset": 3530
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "anywhere",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0005550668,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "anywhere",
+                        "beginOffset": 3506
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "equals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005520002,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "equals",
+                        "beginOffset": 1940
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blog",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00055039587,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blog",
+                        "beginOffset": 2584
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "piece",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00055039587,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "piece",
+                        "beginOffset": 2548
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "funnel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005424535,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "funnel",
+                        "beginOffset": 5673
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "funnel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00054197066,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "funnel",
+                        "beginOffset": 5935
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00052471075,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 6982
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "type",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00051803753,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "type",
+                        "beginOffset": 5592
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0005177478,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign",
+                        "beginOffset": 4435
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "form",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005111363,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "form",
+                        "beginOffset": 4583
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "form",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005111363,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "form",
+                        "beginOffset": 4543
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "results",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005087648,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "results",
+                        "beginOffset": 3745
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "CTR",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005083328,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "CTR",
+                        "beginOffset": 4008
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "difference",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005083328,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "difference",
+                        "beginOffset": 3989
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0005083328,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 4013
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "initiatives",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005081276,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "initiatives",
+                        "beginOffset": 4183
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000507929,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": 4324
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005078165,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user",
+                        "beginOffset": 6495
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "targeting regulations",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004874571,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "targeting regulations",
+                        "beginOffset": 6098
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00047613226,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 5847
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "REGULATIONS",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00047585962,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "REGULATIONS",
+                        "beginOffset": 6029
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "awareness",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045901697,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "awareness",
+                        "beginOffset": 5653
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "consumer data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00043654555,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "consumer data",
+                        "beginOffset": 6473
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Try",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000434367,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Try",
+                        "beginOffset": 5691
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "webinar",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004342381,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "webinar",
+                        "beginOffset": 5860
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user information breach",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00043375193,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user information breach",
+                        "beginOffset": 6217
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004310935,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 6677
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00043098626,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 6889
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "LEAD GEN",
+            "type": "OTHER",
+            "metadata": {
+                "mid": "/m/06842y",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Lead_generation"
+            },
+            "salience": 0.0004265901,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "LEAD GEN",
+                        "beginOffset": 4197
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "test",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00042277947,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "test",
+                        "beginOffset": 3883
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Advertisers",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.00041401616,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Advertisers",
+                        "beginOffset": 6596
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "journey",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038598603,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "journey",
+                        "beginOffset": 5894
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "funnel content offering",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0003814857,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "funnel content offering",
+                        "beginOffset": 5788
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "example",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038137252,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "example",
+                        "beginOffset": 5826
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "point",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038104865,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "point",
+                        "beginOffset": 6048
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Custom Audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0003619653,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Custom Audience",
+                        "beginOffset": 6915
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "information",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003572326,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "information",
+                        "beginOffset": 6541
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "updates",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003518238,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "updates",
+                        "beginOffset": 6164
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00034460684,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign",
+                        "beginOffset": 4696
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "retargeting campaign",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00034460684,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "retargeting campaign",
+                        "beginOffset": 4832
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "custom list",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00034403696,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "custom list",
+                        "beginOffset": 5212
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "regulation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00033235174,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "regulation",
+                        "beginOffset": 7078
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "RMI",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0003258697,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "RMI",
+                        "beginOffset": 2111
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Thank You",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0003256265,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Thank You",
+                        "beginOffset": 2421
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "customers",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00031928162,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "customers",
+                        "beginOffset": 4752
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience methods",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003070906,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience methods",
+                        "beginOffset": 6403
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "video",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.00030487656,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5164
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "video",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.00030487656,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "video",
+                        "beginOffset": 5038
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "breakdown",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00030310557,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "breakdown",
+                        "beginOffset": 7047
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "CPA",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.00030032528,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 4030
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00029716213,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "page",
+                        "beginOffset": 5073
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "options",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002772833,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "options",
+                        "beginOffset": 5293
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "advertisers",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0002689804,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "advertisers",
+                        "beginOffset": 6697
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "part",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00026676516,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "part",
+                        "beginOffset": 5152
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "regards",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002662011,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "regards",
+                        "beginOffset": 6939
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "VIDEO ENGAGEMENT",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00026349994,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "VIDEO ENGAGEMENT",
+                        "beginOffset": 4995
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "list options",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00026116494,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "list options",
+                        "beginOffset": 4486
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Tip",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00026107172,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Tip",
+                        "beginOffset": 4673
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "form",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00025023357,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "form",
+                        "beginOffset": 4657
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "form",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00025014425,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "form",
+                        "beginOffset": 4880
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "guide",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00022681807,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "guide",
+                        "beginOffset": 7023
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "SARAH",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00022517821,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "SARAH",
+                        "beginOffset": 5998
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Cambridge",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00022505497,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Cambridge",
+                        "beginOffset": 6197
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Analytica",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00022505497,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Analytica",
+                        "beginOffset": 6207
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "product/service",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00020910616,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "product/service",
+                        "beginOffset": 4960
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "GDPRthat",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00019634364,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "GDPRthat",
+                        "beginOffset": 7032
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "newsletter download",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00019070365,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "newsletter\n   download",
+                        "beginOffset": 4789
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "materials",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00019070365,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "materials",
+                        "beginOffset": 4719
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "webinar",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00019070365,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "webinar",
+                        "beginOffset": 4763
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "download",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00019070365,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "download",
+                        "beginOffset": 4779
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign efforts",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00019070365,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign efforts",
+                        "beginOffset": 4899
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "funnel materials",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00019070365,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "funnel materials",
+                        "beginOffset": 4928
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "company",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0001906375,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "company",
+                        "beginOffset": 5052
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trial",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0001848254,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trial",
+                        "beginOffset": 4986
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "advertisers",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.00017478914,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "advertisers",
+                        "beginOffset": 6795
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "copy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00016748281,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "copy",
+                        "beginOffset": 4710
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "event signup",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00016748281,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "event signup",
+                        "beginOffset": 4946
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "manner",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00016731325,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "manner",
+                        "beginOffset": 5258
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

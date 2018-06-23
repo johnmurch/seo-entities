@@ -1,0 +1,2003 @@
+{
+    "entities": [
+        {
+            "name": "Target CPA",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.24016578,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Target CPA",
+                        "beginOffset": 0
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "bidding strategy",
+                        "beginOffset": 22
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "Target CPA",
+                        "beginOffset": 1839
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target CPA",
+                        "beginOffset": 2751
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "bidding strategy",
+                        "beginOffset": 3853
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "CPA",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.124895416,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 304
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 1173
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 1508
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 1594
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 2925
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 2976
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tCPA",
+            "type": "ORGANIZATION",
+            "metadata": {
+                "mid": "/m/019n1v",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Certified_Public_Accountant"
+            },
+            "salience": 0.102895066,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tCPA",
+                        "beginOffset": 214
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tCPA",
+                        "beginOffset": 372
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 1268
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 2230
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 2304
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 2375
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 2790
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 3334
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 3489
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tCPA",
+                        "beginOffset": 3743
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tCPA",
+                        "beginOffset": 4119
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tCPA",
+                        "beginOffset": 4340
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 3413
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "TARGET CPA",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0935063,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "TARGET CPA",
+                        "beginOffset": 767
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "TARGET CPA",
+                        "beginOffset": 1958
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "TARGET CPA",
+                        "beginOffset": 3073
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Google",
+            "type": "ORGANIZATION",
+            "metadata": {
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Google",
+                "mid": "/m/045c7b"
+            },
+            "salience": 0.052432485,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Google",
+                        "beginOffset": 55
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Google",
+                        "beginOffset": 575
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Google",
+                        "beginOffset": 864
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Google",
+                        "beginOffset": 3629
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "CPA",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.04017987,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 420
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 1683
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 1768
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.030314252,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 280
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.025747854,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 104
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.021393701,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 819
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 3147
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 3198
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tests",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.016470047,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tests",
+                        "beginOffset": 527
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.014262931,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 84
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "goal",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.01281793,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "goal",
+                        "beginOffset": 143
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "factors",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.011380716,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "factors",
+                        "beginOffset": 466
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "target CPA",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.010683304,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "target CPA",
+                        "beginOffset": 202
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "acquisition",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.009578255,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "acquisition",
+                        "beginOffset": 160
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "cost",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.009578255,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "cost",
+                        "beginOffset": 151
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Bing",
+            "type": "OTHER",
+            "metadata": {
+                "mid": "/m/0bx7rw",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Bing_(search_engine)"
+            },
+            "salience": 0.008442983,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Bing",
+                        "beginOffset": 64
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Bing",
+                        "beginOffset": 875
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "thing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0062712496,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "thing",
+                        "beginOffset": 329
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "engines",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.006171033,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "engines",
+                        "beginOffset": 233
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Target",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0054162904,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1166
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1308
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1587
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1676
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 1761
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 2223
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 2969
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Target",
+                        "beginOffset": 3327
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "example",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005242857,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "example",
+                        "beginOffset": 177
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "optimizations",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005180274,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "optimizations",
+                        "beginOffset": 251
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ROI goal",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0048169303,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ROI goal",
+                        "beginOffset": 2591
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "ROI goal",
+                        "beginOffset": 2727
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "number",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0045834025,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "number",
+                        "beginOffset": 497
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "reminder",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0044308105,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "reminder",
+                        "beginOffset": 3686
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00430074,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 2082
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ROI",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0037234456,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ROI",
+                        "beginOffset": 2493
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "ROI",
+                        "beginOffset": 3044
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hope",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.003429729,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hope",
+                        "beginOffset": 1829
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "risk",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0033707113,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "risk",
+                        "beginOffset": 1112
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "CPA",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0032444191,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "CPA",
+                        "beginOffset": 1716
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "optimizations",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0028400472,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "optimizations",
+                        "beginOffset": 626
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bid",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.002685058,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bid",
+                        "beginOffset": 723
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0025742177,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 660
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0025635883,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 885
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "season",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.002492673,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "season",
+                        "beginOffset": 1026
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0024531328,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 2260
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0024366546,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion",
+                        "beginOffset": 1516
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0022483577,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 2393
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "engines",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022150448,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "engines",
+                        "beginOffset": 938
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaigns",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.002069508,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaigns",
+                        "beginOffset": 2612
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0020011843,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion volume",
+                        "beginOffset": 1806
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019997775,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion\n   volume",
+                        "beginOffset": 1903
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion driver campaigns",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019971873,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion driver campaigns",
+                        "beginOffset": 2033
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0019948469,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign",
+                        "beginOffset": 2239
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019814433,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "volume",
+                        "beginOffset": 1530
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaigns",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.001979762,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaigns",
+                        "beginOffset": 1644
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "signals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019632028,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "signals",
+                        "beginOffset": 680
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "support page",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019632028,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "support page",
+                        "beginOffset": 596
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "THINGS",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019588044,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "THINGS",
+                        "beginOffset": 730
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018615116,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 3369
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "19%",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001828282,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "19%",
+                        "beginOffset": 2415
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaigns",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001827364,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaigns",
+                        "beginOffset": 2470
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001827364,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion volume",
+                        "beginOffset": 2523
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018256344,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion volume",
+                        "beginOffset": 2659
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "adjustments",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018192776,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "adjustments",
+                        "beginOffset": 994
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "adjustments",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0017978032,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "adjustments",
+                        "beginOffset": 2198
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "adjustments",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0017900036,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "adjustments",
+                        "beginOffset": 1242
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "auction",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0017243902,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "auction",
+                        "beginOffset": 696
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "difficulty",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016934805,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "difficulty",
+                        "beginOffset": 958
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "season",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.001675585,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "season",
+                        "beginOffset": 1292
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "optimizations",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016441772,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "optimizations",
+                        "beginOffset": 2147
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "CPA test",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016352916,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "CPA test",
+                        "beginOffset": 1315
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "engines",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001494797,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "engines",
+                        "beginOffset": 2123
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaigns",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001481434,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaigns",
+                        "beginOffset": 3114
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "experiment",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014731279,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "experiment",
+                        "beginOffset": 2809
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "experiment",
+                        "beginOffset": 2908
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014403452,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": 2555
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "recommendation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014269458,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "recommendation",
+                        "beginOffset": 1985
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "goal",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001419946,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "goal",
+                        "beginOffset": 2503
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "signals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001317133,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "signals",
+                        "beginOffset": 2111
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "landing pages",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013087235,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "landing pages",
+                        "beginOffset": 1449
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "changes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013064205,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "changes",
+                        "beginOffset": 1622
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "impact",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013034922,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "impact",
+                        "beginOffset": 1893
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "impact",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012939889,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "impact",
+                        "beginOffset": 1370
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "test",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012521363,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "test",
+                        "beginOffset": 2358
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "test",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012450742,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "test",
+                        "beginOffset": 3767
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "example",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012052323,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "example",
+                        "beginOffset": 2546
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011635171,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 4144
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011541873,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion volume",
+                        "beginOffset": 3508
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bottom line",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011505983,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bottom\n   line",
+                        "beginOffset": 1385
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "performance",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011474424,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "performance",
+                        "beginOffset": 1572
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "test",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011294585,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "test",
+                        "beginOffset": 3483
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "KPIs",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011251408,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "KPIs",
+                        "beginOffset": 1155
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "comment",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0011045017,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "comment",
+                        "beginOffset": 4354
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "clients",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010585594,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "clients",
+                        "beginOffset": 2566
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mark",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010580678,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mark",
+                        "beginOffset": 2711
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "account",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010580678,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "account",
+                        "beginOffset": 2629
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010571617,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion volume",
+                        "beginOffset": 3907
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "changes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010358115,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "changes",
+                        "beginOffset": 1433
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "CVR",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0010300009,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "CVR",
+                        "beginOffset": 2423
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "CVR",
+                        "beginOffset": 3543
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "conversion volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00095801405,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion volume",
+                        "beginOffset": 4060
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "volume campaigns",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00095801405,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "volume campaigns",
+                        "beginOffset": 4014
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009047548,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 3636
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "adjustments",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00084294035,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "adjustments",
+                        "beginOffset": 3661
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "check-in",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00079381064,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "check-in",
+                        "beginOffset": 3793
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "way",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007935568,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "way",
+                        "beginOffset": 3808
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bidding option",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078906165,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bidding option",
+                        "beginOffset": 3955
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0007481641,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 3577
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bidding strategies",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006923958,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bidding strategies",
+                        "beginOffset": 4265
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006835456,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fit",
+                        "beginOffset": 4332
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.00060268736,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign",
+                        "beginOffset": 2832
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion volume",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000602427,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion volume",
+                        "beginOffset": 3002
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000602427,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign",
+                        "beginOffset": 2948
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "campaign",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00060124823,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "campaign",
+                        "beginOffset": 3343
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "role",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005623195,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "role",
+                        "beginOffset": 1495
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "effort",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00055509707,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "effort",
+                        "beginOffset": 4037
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "situation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005542926,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "situation",
+                        "beginOffset": 4372
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00052043784,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 3257
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "optimizations",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004953759,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "optimizations",
+                        "beginOffset": 3302
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "engines",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003563868,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "engines",
+                        "beginOffset": 3237
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "split",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0003491782,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "split",
+                        "beginOffset": 2871
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "eCPC",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.00032794772,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "eCPC",
+                        "beginOffset": 3998
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "decisions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00027576866,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "decisions",
+                        "beginOffset": 3288
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Manual CPC",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00017148406,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Manual CPC",
+                        "beginOffset": 2849
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

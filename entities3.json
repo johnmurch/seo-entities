@@ -1,0 +1,3698 @@
+{
+    "entities": [
+        {
+            "name": "navigation.",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.26509902,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 724
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 885
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 1084
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 1250
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "navigation.",
+                        "beginOffset": 2649
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 3916
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 4014
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 4421
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 7465
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.092154495,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 821
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 7208
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.024418926,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 24
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "website",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.020582918,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "website",
+                        "beginOffset": 358
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "website",
+                        "beginOffset": 3126
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "website",
+                        "beginOffset": 3318
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.018727727,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 3200
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 7431
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "website",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.01863202,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "website",
+                        "beginOffset": 2
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.01400719,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Navigation",
+                        "beginOffset": 278
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.01396891,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 383
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tools",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.013076735,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tools",
+                        "beginOffset": 3577
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "tools",
+                        "beginOffset": 7176
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "marketers",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.012407798,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "marketers",
+                        "beginOffset": 571
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.011594889,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 544
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "clearance rack",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.010656115,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "clearance rack",
+                        "beginOffset": 51
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.010515922,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user",
+                        "beginOffset": 668
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.009632829,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 418
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Changes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.009284602,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Changes",
+                        "beginOffset": 466
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.007982603,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 309
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sites",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.007880594,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sites",
+                        "beginOffset": 376
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "STEP 2",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0077490495,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "STEP 2",
+                        "beginOffset": 3391
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0074706487,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 931
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "effort",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0069700517,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "effort",
+                        "beginOffset": 200
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "answers",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0064236955,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "answers",
+                        "beginOffset": 803
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "best",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.006364844,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "best",
+                        "beginOffset": 644
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "search engines",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.006332177,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "search engines",
+                        "beginOffset": 319
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Urban Outfitters",
+            "type": "ORGANIZATION",
+            "metadata": {
+                "mid": "/m/03kgz4",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Urban_Outfitters"
+            },
+            "salience": 0.0063032587,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Urban Outfitters",
+                        "beginOffset": 69
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "search engines",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0062887627,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "search engines",
+                        "beginOffset": 684
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "teams",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.005676877,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "teams",
+                        "beginOffset": 608
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "place",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005470444,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "place",
+                        "beginOffset": 1510
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "apparel",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0051170066,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "apparel",
+                        "beginOffset": 137
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "types",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0051170066,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "types",
+                        "beginOffset": 128
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sizes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0051170066,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sizes",
+                        "beginOffset": 118
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "gems",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0051170066,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "gems",
+                        "beginOffset": 108
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "deal",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005091554,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "deal",
+                        "beginOffset": 271
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "options",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005091554,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "options",
+                        "beginOffset": 230
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "business priorities",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005059667,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "business priorities",
+                        "beginOffset": 439
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "nightmare",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0050483346,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "nightmare",
+                        "beginOffset": 557
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "site",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.005041605,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "site",
+                        "beginOffset": 1868
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "post",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.005023223,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "post",
+                        "beginOffset": 767
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "confirmation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005005481,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "confirmation",
+                        "beginOffset": 913
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trickle-down effect",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0049866266,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trickle-down effect",
+                        "beginOffset": 503
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "parts",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0041087833,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "parts",
+                        "beginOffset": 3773
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00393612,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user",
+                        "beginOffset": 1353
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "questions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.003867896,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "questions",
+                        "beginOffset": 2033
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience insights",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0038565462,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience insights",
+                        "beginOffset": 4367
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "audience insights",
+                        "beginOffset": 4906
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "landing pages",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0037298838,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "landing pages",
+                        "beginOffset": 4073
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "plan",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00372866,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "plan",
+                        "beginOffset": 4292
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "competitor",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0037145624,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "competitor",
+                        "beginOffset": 3347
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.003707933,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 4109
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.003631786,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 1879
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "stage",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0033986717,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "stage",
+                        "beginOffset": 4578
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "goal",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0032927936,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "goal",
+                        "beginOffset": 1791
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "solutions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.003231007,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "solutions",
+                        "beginOffset": 2367
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "linking",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0032280618,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "linking",
+                        "beginOffset": 2613
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "goal",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0032127434,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "goal",
+                        "beginOffset": 1754
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "STEP 5",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.003190929,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "STEP 5",
+                        "beginOffset": 6053
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "BUTTON UP TRACKING",
+                        "beginOffset": 6061
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "change",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0031098316,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "change",
+                        "beginOffset": 7029
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "change",
+                        "beginOffset": 7140
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.003044993,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 7487
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0030429843,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "step",
+                        "beginOffset": 1675
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Seer",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0029783628,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Seer",
+                        "beginOffset": 629
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "changes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0028219102,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "changes",
+                        "beginOffset": 1002
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "buttons",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0028095501,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "buttons",
+                        "beginOffset": 1483
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0028062565,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 1774
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.002762171,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 4737
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 5080
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 5685
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00269237,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 3786
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0026905292,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 4161
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0026896463,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 4323
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "website",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0026727193,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "website",
+                        "beginOffset": 1724
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "goals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0026727193,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "goals",
+                        "beginOffset": 1709
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "goals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0026727193,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "goals",
+                        "beginOffset": 1661
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "terminology users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0026698862,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "terminology users",
+                        "beginOffset": 3074
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0026469335,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 1938
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.002618297,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "step",
+                        "beginOffset": 2280
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0025774804,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 2468
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "teams",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0025538069,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "teams",
+                        "beginOffset": 5782
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Audience interviews",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0025278083,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Audience interviews",
+                        "beginOffset": 1106
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience research",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0025260306,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience research",
+                        "beginOffset": 1294
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience research",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0025197992,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience research",
+                        "beginOffset": 1799
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.002463219,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 2054
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0024252955,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 6564
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0024082917,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 2823
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0024062472,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 2922
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "plan-of-attack",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0023613728,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "plan-of-attack",
+                        "beginOffset": 956
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user testing",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0023535884,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user testing",
+                        "beginOffset": 1140
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "example",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0023461308,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "example",
+                        "beginOffset": 1737
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.002283476,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 1907
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0022749521,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience",
+                        "beginOffset": 4257
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "information",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022688555,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "information",
+                        "beginOffset": 2736
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "AUDIENCE INSIGHTS",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022651004,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "AUDIENCE INSIGHTS",
+                        "beginOffset": 3407
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.002227038,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 4650
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.002227038,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 4625
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0021681741,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "step",
+                        "beginOffset": 3845
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "efforts",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0021498771,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "efforts",
+                        "beginOffset": 1041
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "insights",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0021473535,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "insights",
+                        "beginOffset": 1174
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rabbit hole",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0021422773,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rabbit hole",
+                        "beginOffset": 1561
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rabbit hole",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0021422773,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rabbit hole",
+                        "beginOffset": 1595
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "places",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0021422773,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "places",
+                        "beginOffset": 1637
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0020749797,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 2961
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "problem",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00205217,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "problem",
+                        "beginOffset": 1439
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0020450645,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "step",
+                        "beginOffset": 2510
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0020182,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 6178
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "site",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019702853,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "site",
+                        "beginOffset": 2458
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "way",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019321463,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "way",
+                        "beginOffset": 4525
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "DATA",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019301333,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "DATA",
+                        "beginOffset": 3431
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "insights",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018905883,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "insights",
+                        "beginOffset": 2096
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "search",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0018870039,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "search",
+                        "beginOffset": 2788
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Monitor",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0018867201,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Monitor",
+                        "beginOffset": 1053
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "quote",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018278324,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "quote",
+                        "beginOffset": 1335
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "site",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0018217303,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "site",
+                        "beginOffset": 4469
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.001817647,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 7514
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion funnel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018005113,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion funnel",
+                        "beginOffset": 1978
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "buttons",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0017472269,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "buttons",
+                        "beginOffset": 3896
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Audience interviews",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0017131729,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Audience interviews",
+                        "beginOffset": 2988
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "research",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0017118547,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "research",
+                        "beginOffset": 3470
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "heatmaps",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0017106151,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "heatmaps",
+                        "beginOffset": 3736
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "NAVIGATION",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016941013,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "NAVIGATION",
+                        "beginOffset": 7359
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "click tracking",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016851824,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "click tracking",
+                        "beginOffset": 6129
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "funnel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016625443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "funnel",
+                        "beginOffset": 4125
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "funnel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016619985,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "funnel",
+                        "beginOffset": 4402
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversion funnel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016614671,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversion funnel",
+                        "beginOffset": 4478
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "anything",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016279737,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "anything",
+                        "beginOffset": 2402
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "order",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016141583,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "order",
+                        "beginOffset": 4227
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "example",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015944471,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "example",
+                        "beginOffset": 3139
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "recordings",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001592689,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "recordings",
+                        "beginOffset": 3749
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "part",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0015775281,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "part",
+                        "beginOffset": 2636
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "interaction",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015693645,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "interaction",
+                        "beginOffset": 3818
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "way",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015672749,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "way",
+                        "beginOffset": 4457
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "quotes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015243506,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "quotes",
+                        "beginOffset": 4241
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "change",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015190314,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "change",
+                        "beginOffset": 6044
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "center",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014647976,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "center",
+                        "beginOffset": 2559
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "each",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014606646,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "each",
+                        "beginOffset": 3884
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "PLAN",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014596925,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "PLAN",
+                        "beginOffset": 4219
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audienceInsight",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014547686,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audienceInsight",
+                        "beginOffset": 2127
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "substance abuse counselor program",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014541696,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "substance abuse counselor program",
+                        "beginOffset": 3228
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014536188,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": 3560
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014536168,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "data",
+                        "beginOffset": 3668
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Question",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014407474,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Question",
+                        "beginOffset": 2107
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "anything",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014407474,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "anything",
+                        "beginOffset": 2161
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "information",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014387384,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "information",
+                        "beginOffset": 2537
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "addiction studies program",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014187979,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "addiction studies program",
+                        "beginOffset": 3164
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014106655,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 6672
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014095076,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 6997
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014086878,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 7347
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "testing",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0013826239,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "testing",
+                        "beginOffset": 6518
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "reason conversions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013755893,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "reason conversions",
+                        "beginOffset": 6299
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "stages",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013312657,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "stages",
+                        "beginOffset": 4388
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "each button",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013100781,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "each button",
+                        "beginOffset": 6155
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013097766,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user data",
+                        "beginOffset": 6255
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "conversions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013091902,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "conversions",
+                        "beginOffset": 6400
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001280392,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 6965
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012801398,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 7088
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "words",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012776507,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "words",
+                        "beginOffset": 3104
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "changes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012767918,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "changes",
+                        "beginOffset": 6652
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "heatmapping softwares",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0012761983,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "heatmapping softwares",
+                        "beginOffset": 3615
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience research findings",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012761983,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience\nresearch findings",
+                        "beginOffset": 3692
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "SEO 4",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012725376,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "SEO\n 4",
+                        "beginOffset": 975
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "form",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012653624,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "form",
+                        "beginOffset": 2207
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "needs",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012647514,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "needs",
+                        "beginOffset": 2391
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "issue.",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012647514,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "issue.",
+                        "beginOffset": 2317
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "friction points",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012647514,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "friction points",
+                        "beginOffset": 2251
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "search process",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012635979,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "search process",
+                        "beginOffset": 2714
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "goals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00124789,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "goals",
+                        "beginOffset": 5822
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "areas",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0012358497,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "areas",
+                        "beginOffset": 1854
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "heatmaps",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011760207,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "heatmaps",
+                        "beginOffset": 6211
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "thing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011695871,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "thing",
+                        "beginOffset": 4049
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011435231,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 5214
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "comparisons",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011396596,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "comparisons",
+                        "beginOffset": 2343
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "way",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011331141,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "way",
+                        "beginOffset": 6282
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "STEP 3",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011180814,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "STEP 3",
+                        "beginOffset": 4174
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "track",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0011127333,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "track",
+                        "beginOffset": 5497
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "recordings",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010949357,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "recordings",
+                        "beginOffset": 6224
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "item",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010013987,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "item",
+                        "beginOffset": 2223
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "launch",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.000999294,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "launch",
+                        "beginOffset": 5926
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "audience data",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009985093,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "audience data",
+                        "beginOffset": 6463
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "launch",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0009979262,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "launch",
+                        "beginOffset": 6634
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "way",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009887153,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "way",
+                        "beginOffset": 6779
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0009640303,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 7333
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "disconnect",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000962526,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "disconnect",
+                        "beginOffset": 3051
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "site",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009544851,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "site",
+                        "beginOffset": 7235
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "decisions",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00092559704,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "decisions",
+                        "beginOffset": 3976
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "buttons",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009147148,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "buttons",
+                        "beginOffset": 7112
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "search",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00091419095,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "search",
+                        "beginOffset": 7574
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008867649,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 4872
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00088626856,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation",
+                        "beginOffset": 5144
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "site hierarchy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00087763317,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "site hierarchy",
+                        "beginOffset": 5879
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "nav",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008774233,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "nav",
+                        "beginOffset": 5988
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "improvement",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008766229,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "improvement",
+                        "beginOffset": 6492
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "perspective",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008764319,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "perspective",
+                        "beginOffset": 6594
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dev environment",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008764319,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dev environment",
+                        "beginOffset": 6531
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "indication",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00086608593,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "indication",
+                        "beginOffset": 6338
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "HotJar",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008585068,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "HotJar",
+                        "beginOffset": 3588
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "lot",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000834792,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lot",
+                        "beginOffset": 1630
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tools",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00082145457,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tools",
+                        "beginOffset": 6909
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "heatmaps",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0008212927,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "heatmaps",
+                        "beginOffset": 7048
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008052942,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "users",
+                        "beginOffset": 5016
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Users",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00080485345,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Users",
+                        "beginOffset": 5173
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "job",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007843151,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "job",
+                        "beginOffset": 6704
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "pages",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007649637,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "pages",
+                        "beginOffset": 6853
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "recordings",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007645115,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "recordings",
+                        "beginOffset": 7158
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user testing",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0007643656,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user testing",
+                        "beginOffset": 7273
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "CrazyEgg",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00075398234,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "CrazyEgg",
+                        "beginOffset": 3596
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00073422614,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 5118
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00073364284,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content",
+                        "beginOffset": 5506
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user experience",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006589318,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user experience",
+                        "beginOffset": 7617
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "performance",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00061308447,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "performance",
+                        "beginOffset": 6719
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation section",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00061270385,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation section",
+                        "beginOffset": 6881
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "content groupings",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00061270385,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "content groupings",
+                        "beginOffset": 6807
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "iteration",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006124604,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "iteration",
+                        "beginOffset": 7068
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "result",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006124604,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "result",
+                        "beginOffset": 7125
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rounds",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00061222474,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rounds",
+                        "beginOffset": 7263
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "differences",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00061222474,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "differences",
+                        "beginOffset": 7314
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "SEO success",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006119963,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "SEO success",
+                        "beginOffset": 7645
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00059987785,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "home",
+                        "beginOffset": 5257
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sitemap",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005997336,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sitemap",
+                        "beginOffset": 5587
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "navigation buttons",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00057539274,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "navigation buttons",
+                        "beginOffset": 4978
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "note",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005516607,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "note",
+                        "beginOffset": 7294
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "funnel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00054799416,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "funnel",
+                        "beginOffset": 4798
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005163381,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": 5333
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tools",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00051593647,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tools",
+                        "beginOffset": 5642
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "adjustments",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004851699,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "adjustments",
+                        "beginOffset": 6740
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "parts",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00048126935,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "parts",
+                        "beginOffset": 4785
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "pages",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00048126935,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "pages",
+                        "beginOffset": 4762
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "search engines",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004809937,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "search engines",
+                        "beginOffset": 5049
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Google Data Studio",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0004120592,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Google\n    Data Studio",
+                        "beginOffset": 6920
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Hotjar",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0004118981,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Hotjar",
+                        "beginOffset": 7187
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "chart",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038980975,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chart",
+                        "beginOffset": 5318
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Slides",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038950655,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Slides",
+                        "beginOffset": 5615
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "topics",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038546973,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "topics",
+                        "beginOffset": 4752
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "drop-down",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00038535803,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "drop-down",
+                        "beginOffset": 4844
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "anchor text",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038524895,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "anchor text",
+                        "beginOffset": 4958
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "keyword targets",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038524895,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "keyword targets",
+                        "beginOffset": 4928
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "signals",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038524895,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "signals",
+                        "beginOffset": 5038
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "considerations",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038483628,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "considerations",
+                        "beginOffset": 5445
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Google Analytics",
+            "type": "OTHER",
+            "metadata": {
+                "mid": "/m/08w9_f",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Analytics"
+            },
+            "salience": 0.00036195669,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Google Analytics",
+                        "beginOffset": 6832
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "note",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00034703987,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "note",
+                        "beginOffset": 5161
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sense",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00030486565,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sense",
+                        "beginOffset": 5007
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Google",
+            "type": "ORGANIZATION",
+            "metadata": {
+                "mid": "/m/045c7b",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Google"
+            },
+            "salience": 0.0002837673,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Google",
+                        "beginOffset": 5608
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Mockflow",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00022727886,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Mockflow",
+                        "beginOffset": 5653
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Powerpoint",
+            "type": "CONSUMER_GOOD",
+            "metadata": {
+                "mid": "/m/0k7vl",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Microsoft_PowerPoint"
+            },
+            "salience": 0.00022727886,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Powerpoint",
+                        "beginOffset": 5623
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
