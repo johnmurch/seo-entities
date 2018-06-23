@@ -1,10 +1,9 @@
 # seo-entities
-Proof of Concept - based on https://twitter.com/wilreynolds/status/1010243672179388418
+Built as a Proof of Concept - based on https://twitter.com/wilreynolds/status/1010243672179388418
 
->
-Hey folks, need help. I'm looking for a tool where I can drop in 200k URLs and get entities for each URL, easily exportable in a CSV, I know Google and IBM watson do this, but I don't they don't have easy interfaces for me to pull this quickly w/o writing some code / scripts. TY!
+>Hey folks, need help. I'm looking for a tool where I can drop in 200k URLs and >get entities for each URL, easily exportable in a CSV, I know Google and IBM >watson do this, but I don't they don't have easy interfaces for me to pull >this quickly w/o writing some code / scripts. TY!
 
-### Proof of Concept
+### Overview
 
 Build a system that will take a URLs and generate entities from the content.
 
@@ -12,6 +11,7 @@ Input: Import CSV file of URLs
 
 Output: Generate CVS export of URL and entities
 
+## Current Status
 
 I took 3 sample URLs from [Seer Interactive blog](http://www.seerinteractive.com/blog/), process entities using Google's Natural Language API and generate a CSV.
 
