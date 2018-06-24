@@ -1,4 +1,7 @@
 # seo-entities
+
+>Update 6/24/2018 - Beta Launch at [https://www.urlrecover.com/seo-entities/](https://www.urlrecover.com/seo-entities/)
+
 Built as a Proof of Concept - based on https://twitter.com/wilreynolds/status/1010243672179388418
 
 >Hey folks, need help. I'm looking for a tool where I can drop in 200k URLs and >get entities for each URL, easily exportable in a CSV, I know Google and IBM >watson do this, but I don't they don't have easy interfaces for me to pull >this quickly w/o writing some code / scripts. TY!
